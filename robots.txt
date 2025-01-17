@@ -3,4 +3,7 @@
 S/N: AD25478FER
 Model: AX-J12
 
+S/N: AD25447ETR
+Model: AX-J12
+
 User-agent: *
